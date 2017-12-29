@@ -4,10 +4,11 @@
   "description": "An easy example for pm2 in Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "pm2 start --name server -i 4 index.js",
     "stop": "pm2 delete server",
-    "show": "pm2 show server"
+    "show": "pm2 show server",
+    "log": "pm2 logs server",
+    "test": "node index.js"
   },
   "keywords": [
     "Node.js",
