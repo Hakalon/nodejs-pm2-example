@@ -4,9 +4,11 @@ This project is an easy example for pm2 & loadtest in Node.js.
 
 Please be noticed, I install all package locally in this project.
 
-So if you want to directly use pm2 and loadtest command, you should use *node_module/.bin/pm2* and *node_module/.bin/loadtest*
+So if you want to directly use pm2 and loadtest command, you should use 
 
-Or just install pm2 and loadtest *globally*.
+**node_module/.bin/pm2 ...** and **node_module/.bin/loadtest ...**
+
+Or just install pm2 and loadtest globally.
 
 # Start project
 
