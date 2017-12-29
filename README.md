@@ -20,7 +20,7 @@ npm install // or if you have yarn, use yarn install
 npm start
 ```
 
-#Remarks
+# Remarks
 
 There are some script you can use:
 
